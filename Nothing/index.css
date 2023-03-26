@@ -1,0 +1,292 @@
+.lol-uikit-background-switcher-image.fade {
+    display: none !important ;
+}
+
+iframe html {
+	background: transparent!important;
+}
+
+iframe .bg-cover {
+	opacity:0!important
+}
+
+.rcp-fe-viewport-sidebar {
+    background: none !important;
+}
+
+.lol-social-sidebar.ember-view {
+	background: transparent!important
+}
+
+#rcp-fe-lol-home-error {
+	display: none!important
+}
+
+.store-backdrop {
+	background-image: unset !important;
+}
+
+.stats-backdrop {
+	background-image: none !important;
+}
+
+.alpha-version-panel {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(38, 78, 52, 0))!important;
+	border-top: thin solid #1e282d00 !important;
+}
+
+lol-social-avatar[ref='iconElement'], .lol-social-identity.ember-view > .details {
+	z-index: 1 !important;
+}
+
+.availability-icon {
+	position: relative!important;
+}
+
+.parties-background.ember-view .lol-uikit-background-switcher-image {
+    opacity: 0 !important;
+}
+
+.parties-background {
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(0,0,0,0) 50%, rgba(90, 27, 62, 0) 100%) !important;
+}
+
+.lobby-header-overlay {
+	background: unset!important
+}
+
+.parties-game-section.use-animation > .parties-game-info-panel-bg-container > video {
+	display: none !important;
+}
+
+.parties-game-search-info {
+	color:#000000!important
+}
+
+.parties-game-search-elapsed {
+	color: white!important;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+}
+
+.parties-status-card-bg-container video {
+	filter: saturate(0.5) brightness(1) invert(1) hue-rotate(27deg) !important;
+}
+
+.challenge-banner-title-container {
+	color: #f3d3d3 !important;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+}
+
+.parties-status-member-icons > .parties-status-member-joined {
+	filter: grayscale(1) saturate(0) brightness(0.5) !important;
+}
+
+.collections-application {
+	background: rgba(29, 72, 56, 0)!important;
+}
+
+.league-client-logo.ember-view {
+    display: none !important;
+}
+
+.item-sets-table-row {
+	background: #0000007a !important;
+}
+
+#background-ambient {
+	src: none !important;
+	display: none !important;
+}
+
+.inventory-search {
+	background: #00000085!important;
+}
+
+.emote-item-icon.interactive {
+	background: #000000b0 !important;
+}
+
+.uikit-background-switcher .lol-uikit-background-switcher-image.transition.fade {
+	animation: unset!important
+}
+
+#elaina-bg:has(+ #rcp-fe-viewport-root .parties-background) {
+	filter: brightness(0.4) !important;
+}
+
+.background {
+	background-image: unset!important;
+}
+
+.stats-backdrop {
+	opacity: 0.3!important;
+	mix-blend-mode: difference !important;
+}
+
+html {
+	overflow: hidden !important;
+}
+
+.loot-backdrop {
+	height: 720px !important;
+}
+
+.loading-tab::after {
+	background-image:none!important
+}
+
+.store-loading {
+	background-color: transparent!important;
+}
+
+.clash-aram-intro-modal {
+	background-image: none!important;
+	background-color: transparent!important
+}
+
+.champion-select .timer-status::before {
+	filter: contrast(0) brightness(1) !important;
+}
+
+.champion-select .action-button-container::after {
+	filter: sepia(1) !important;
+}
+
+.rcp-fe-lol-game-in-progress {
+	background-image: unset!important;
+	background-color: unset!important;
+}
+
+.clash-tab-team-background, .clash-tab-bracket-background, .tournament-scouting, .clash-missed-lockin-modal, .clash-root-background-landing, .clash-root-background {
+	background-image: none !important;
+}
+
+.rcp-fe-lol-navigation.main-nav-bar {
+	height: 76px !important;
+}
+
+
+/*_________________________________________________________________________________________________________________________________*/
+
+
+/*_________________________________________________________________________________________________________________________________*/
+
+.vng-age-rating.ember-view {
+	display: none !important;
+}
+
+.clash-aram-intro-modal {
+	display: none !important;
+}
+
+:host .parties-status-card.open {
+	filter: hue-rotate(240deg) !important;
+}
+
+.rcp-fe-lol-profiles-main > .component-factory-application > .ember-view > .style-profile-backdrop-component.ember-view > .style-profile-backdrop-container > .style-profile-masked-image {
+	display: none !important;
+}
+
+
+.ranked-intro-background {
+   display: none !important;
+}
+
+.loot-backdrop.background-static {
+	background: none !important;
+}
+
+.yourshop-root {
+    background-image: none !important;
+}
+
+.npe-root-component {
+    background-image: none !important;
+}
+
+div > div > .rcp-fe-lol-tft-application-background {
+	background-image: none !important; 
+}
+
+.item-page-items-container-wrapper.purchase-history-page-content-wrapper {
+	background: unset !important;
+}
+
+.postgame-background-image {
+	display: none !important;
+}
+
+.friend-header {
+	display: none !important;
+}
+
+.loading-content div > div > .loading-text {
+	display: none !important;
+}
+
+.hextech-loading-animation > svg {
+	display: none !important;
+}
+/*__________________________________________________________________________________________________________________________________*/
+
+
+
+/*_________________________________________________________________________________________________________________________________*/
+
+.navigation-status-ticker-content-no-link {
+	background-color: rgba(248, 169, 201, 0.726) !important;
+	border: 1px solid white !important;
+	border-radius: 0.5rem !important;
+	color: rgba(22, 22, 22, 0.626) !important;
+}
+
+.currency-be-icon-static {
+	background-image: none !important;
+}
+
+.currency-rp {
+	background-image: none !important;
+}
+
+.icon-image.has-icon {
+    display: none !important;
+}
+
+.lol-loading-screen-container.lol-loading-screen-default-state {
+	backdrop-filter: blur(15px) ;
+	background: transparent!important;
+}
+
+.lol-loading-screen-progress-bar-container {
+	width: 500px !important;
+	top: 35px !important;
+}
+
+.lol-loading-screen-container .lol-loading-screen-lol-icon {
+	background: none !important;
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 240px !important;
+	height: 240px !important;
+	margin-top: 40px !important;
+}
+
+.champion-select {
+	background: transparent!important
+}
+
+.champion-select .champion-splash-background .background-vignette-container.defocussed > .champ-select-bg {
+	opacity:0 !important;
+}
+
+.champ-select-bg-darken {
+	opacity:0.2!important
+}
+
+.background-vignette-container.focussed.static.visible {
+    display: none !important;
+}
+
+.champion-splash-background {
+	background-image: none !important;
+}
